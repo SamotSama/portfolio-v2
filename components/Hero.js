@@ -13,7 +13,7 @@ export default function Hero() {
         <RoughNotationGroup show={true}>
           <RainbowHighlight color={colors[0]}>
             <h1 className="text-4xl md:text-8xl font-bold text-gray-700 dark:text-gray-200 my-2">
-              Full-Stack.
+              Front-end
             </h1>
           </RainbowHighlight>
           <RainbowHighlight color={colors[1]}>
@@ -23,7 +23,7 @@ export default function Hero() {
           </RainbowHighlight>
           <RainbowHighlight color={colors[2]}>
             <h1 className="text-4xl md:text-8xl font-bold text-gray-700 dark:text-gray-200 my-2">
-              Graphic.
+              Graphic
             </h1>
           </RainbowHighlight>
           <RainbowHighlight color={colors[3]}>
@@ -34,22 +34,9 @@ export default function Hero() {
         </RoughNotationGroup>
       </div>
       {/* Image container */}
-      <div className="hidden lg:block relative w-full md:w-1/2 -mr-40">
+      <div className="hidden lg:block relative w-full md:w-1/2 -mr-40 ">
         <div className="w-3/4 ">
           <img src={userData.avatarUrl} alt="avatar" />
-          <div className="flex flex-row justify-between mt-4">
-            <div className="flex flex-row space-x-4">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="16"
-                height="16"
-                fill="currentColor"
-                className="bi bi-arrow-90deg-up"
-                viewBox="0 0 16 16"
-              >
-              </svg>
-            </div>
-          </div>
         </div>
       </div>
     </div>
