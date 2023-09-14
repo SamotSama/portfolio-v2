@@ -4,7 +4,7 @@ const userData = {
   designation: "Full-Stack Developer",
   avatarUrl: "/tengu.png",
   email: "halejandrorosa@gmail.com",
-  phone: "+54 1138138180",
+  phone: "(+54) 1138138180",
   address: "CABA, Argentina.",
   projects: [
     {
@@ -35,9 +35,9 @@ const userData = {
   ],
   about: {
     title:
-      "Hello! I'm Alejandro, a passionate web developer and creative graphic designer based in Buenos Aires",
+      "Hello! I'm Alejandro, a passionate front-end developer and creative graphic designer based in Buenos Aires",
     description: [
-      `With a strong background in front-end development, I'm dedicated to creating visually appealing and user-friendly websites that leave a lasting impression.`,
+      `With a strong background in web development, I'm dedicated to creating visually appealing and user-friendly websites that leave a lasting impression.`,
       
       `I'm 26 years old and have been studying programming for approximately 5 years now. Over this time, I've gradually immersed myself in the world of IT, taking on various personal projects and exploring new horizons.`,
       
