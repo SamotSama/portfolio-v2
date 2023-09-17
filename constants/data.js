@@ -1,5 +1,5 @@
 const userData = {
-  githubUsername: "Samotsama",
+  githubUsername: "samotsama",
   name: "Alejandro Rosa",
   designation: "Full-Stack Developer",
   avatarUrl: "/tengu.png",
