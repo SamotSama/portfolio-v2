@@ -1,7 +1,7 @@
 const userData = {
   githubUsername: "samotsama",
   name: "Alejandro Rosa",
-  designation: "Full-Stack Developer",
+  designation: "Front-End Developer",
   avatarUrl: "/tengu.png",
   email: "halejandrorosa@gmail.com",
   phone: "(+54) 1138138180",
