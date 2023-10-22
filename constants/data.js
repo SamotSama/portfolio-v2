@@ -8,6 +8,11 @@ const userData = {
   address: "CABA, Argentina.",
   projects: [
     {
+      title: "MediConnect - No Country Project",
+      link: "https://mediconect.onrender.com",
+      imgUrl: "/mediconnect.png",
+    },
+    {
       title: "Movie Search",
       link: "https://movie-search-mu-five.vercel.app/",
       imgUrl: "/movie.png",
@@ -39,7 +44,7 @@ const userData = {
     description: [
       `With a strong background in web development, I'm dedicated to creating visually appealing and user-friendly websites that leave a lasting impression.`,
       
-      `I'm 26 years old and have been studying programming for approximately 5 years now. Over this time, I've gradually immersed myself in the world of IT, taking on various personal projects and exploring new horizons.`,
+      `I'm 27 years old and have been studying programming for approximately 5 years now. Over this time, I've gradually immersed myself in the world of IT, taking on various personal projects and exploring new horizons.`,
       
       `My journey in the world of web development started in 2019. Since then, I've been on a continuous learning path, keeping up with the latest industry trends and technologies to deliver cutting-edge solutions for my clients.`,
       
@@ -54,7 +59,7 @@ const userData = {
       company: "No Country",
       year: "10/2023 - Present",
       companyLink: "https://www.nocountry.tech",
-      desc: "Web development using WordPress, WPBakery for text and image editing.",
+      desc: "working as a Frontend developer at No Country, contributing to the creation of a high-quality medical platform using Next.js and enhancing my skills in new technologies.",
     },
     {
       title: "Web Developer Intern",
