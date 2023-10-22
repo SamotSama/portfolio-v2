@@ -50,7 +50,14 @@ const userData = {
   },
   experience: [
     {
-      title: "Tech Support Inteship",
+      title: "Frontend Developer",
+      company: "No Country",
+      year: "10/2023 - Present",
+      companyLink: "https://www.nocountry.tech",
+      desc: "Web development using WordPress, WPBakery for text and image editing.",
+    },
+    {
+      title: "Web Developer Intern",
       company: "GAOTek Inc.",
       year: "09/2023 - Present",
       companyLink: "https://gaotek.com",
@@ -59,7 +66,7 @@ const userData = {
     {
       title: "Receiving Assistant",
       company: "Mercado Libre",
-      year: "08/2022 - Present",
+      year: "09/2022 - 09/2023",
       companyLink: "https://mercadolibre.com.ar",
       desc: "Defining and monitoring KPIs, analyzing supply and inventory, supporting storage areas, tracking product supply, and compiling reports for management.",
     },
@@ -73,7 +80,7 @@ const userData = {
     {
       title: "Fulfillment Rep",
       company: "Mercado Libre",
-      year: "03/2019 - 01/2021",
+      year: "03/2019 - 12/2020",
       companyLink: "https://mercadolibre.com.ar",
       desc: "Inbound Fulfillment (Receiving, Gate, Check-in, Put Away, Movement), Outbound Fulfillment (Picking, Packing, Wave Movement), and other tasks like Quality, Reverse Logistics, and Process Improvement.",
     },
