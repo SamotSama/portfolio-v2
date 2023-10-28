@@ -59,7 +59,7 @@ const userData = {
       company: "No Country",
       year: "10/2023 - Present",
       companyLink: "https://www.nocountry.tech",
-      desc: "working as a Frontend developer at No Country, contributing to the creation of a high-quality medical platform using Next.js and enhancing my skills in new technologies.",
+      desc: "Working as a Frontend developer at No Country, contributing to the creation of a high-quality medical platform using Next.js and enhancing my skills in new technologies.",
     },
     {
       title: "Web Developer Intern",
