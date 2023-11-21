@@ -9,7 +9,7 @@ const userData = {
   projects: [
     {
       title: "MediConnect - No Country Project",
-      link: "https://mediconect.onrender.com",
+      link: "https://frontend-no-country-actual.onrender.com",
       imgUrl: "/mediconnect.png",
     },
     {
