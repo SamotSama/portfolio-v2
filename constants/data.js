@@ -13,6 +13,11 @@ const userData = {
       imgUrl: "/mediconnect.png",
     },
     {
+      title: "Manabou.",
+      link: "https://manabou.vercel.app/",
+      imgUrl: "/manabou.png",
+    },
+    {
       title: "Movie Search",
       link: "https://movie-search-mu-five.vercel.app/",
       imgUrl: "/movie.png",
@@ -28,7 +33,7 @@ const userData = {
       imgUrl: "/calculator.png",
     },
     {
-      title: "Portfolio",
+      title: "First Portfolio",
       link: "https://samotdev.vercel.app/",
       imgUrl: "/portfolio.png",
     },
