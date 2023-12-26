@@ -8,6 +8,11 @@ const userData = {
   address: "CABA, Argentina.",
   projects: [
     {
+      title: "Stock Manager - No Country Project",
+      link: "https://s12-16-ft-php-next-broc95s-projects.vercel.app/dashboard",
+      imgUrl: "/stock.png",
+    },
+    {
       title: "MediConnect - No Country Project",
       link: "https://frontend-no-country-actual.onrender.com",
       imgUrl: "/mediconnect.png",
@@ -28,14 +33,14 @@ const userData = {
       imgUrl: "/wakaranai.png",
     },
     {
-      title: "Calculator JS",
-      link: "https://calculator-js-samotsama.vercel.app/",
-      imgUrl: "/calculator.png",
-    },
-    {
       title: "First Portfolio",
       link: "https://samotdev.vercel.app/",
       imgUrl: "/portfolio.png",
+    },
+    {
+      title: "Calculator JS",
+      link: "https://calculator-js-samotsama.vercel.app/",
+      imgUrl: "/calculator.png",
     },
     {
       title: "Pong Game",
@@ -64,14 +69,14 @@ const userData = {
       company: "No Country",
       year: "10/2023 - Present",
       companyLink: "https://www.nocountry.tech",
-      desc: "Working as a Frontend developer at No Country, contributing to the creation of a high-quality medical platform using Next.js and enhancing my skills in new technologies.",
+      desc: "Working as a Frontend developer at No Country, contributing to the creation of a high-quality apps using Next.js and enhancing my skills in new technologies.",
     },
     {
       title: "Web Developer Intern",
       company: "GAOTek Inc.",
-      year: "09/2023 - Present",
+      year: "09/2023 - 12/2023",
       companyLink: "https://gaotek.com",
-      desc: "Web development using WordPress, WPBakery for text and image editing.",
+      desc: "Web development using WordPress, WPBakery for text and image editing. Three months intership.",
     },
     {
       title: "Receiving Assistant",

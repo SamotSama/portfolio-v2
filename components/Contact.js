@@ -4,12 +4,12 @@ import userData from "@constants/data";
 export default function Contact() {
   return (
     <section>
-      <div className="max-w-6xl mx-auto h-48 bg-white dark:bg-gray-800 antialiased">
+      <div className="max-w-6xl mx-auto h-48 bg-white dark:bg-gray-800 antialiased ">
         <h1 className=" text-5xl md:text-9xl font-bold py-20 text-center md:text-left">
           Contact
         </h1>
       </div>
-      <div className=" z-10 rounded-md shadow-md bg-[#DC2626] p-4 md:p-10 lg:p-20 max-w-6xl mx-auto mb-20 -mt-4">
+      <div className=" z-10 rounded-md shadow-lg shadow-gray-600 bg-[#DC2626] p-4 md:p-10 lg:p-20 max-w-6xl mx-auto mb-20 -mt-4">
         <div className="grid grid-cols-1 md:grid-cols-2 gap-4">
           <div className="md:ml-4">
             <header className="">
@@ -141,7 +141,7 @@ export default function Contact() {
               </a>
             </div>
           </div>
-          <form action="https://formsubmit.co/your@email.com" method="POST" className="form rounded-lg bg-white p-4 flex flex-col">
+          <form action="https://formsubmit.co/your@email.com" method="POST" className="form rounded-lg bg-white p-4 flex flex-col shadow-lg shadow-gray-700">
             <label htmlFor="name" className="text-sm text-gray-600 mx-4">
               {" "}
               Your Name
