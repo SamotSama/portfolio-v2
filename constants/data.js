@@ -8,6 +8,11 @@ const userData = {
   address: "CABA, Argentina.",
   projects: [
     {
+      title: "IVESS - Mi Cuenta - On Going Project",
+      link: "",
+      imgUrl: "/micuenta.png",
+    },
+    {
       title: "Stock Manager - No Country Project",
       link: "https://s12-16-ft-php-next-broc95s-projects.vercel.app/dashboard",
       imgUrl: "/stock.png",
@@ -42,11 +47,6 @@ const userData = {
       link: "https://calculator-js-samotsama.vercel.app/",
       imgUrl: "/calculator.png",
     },
-    {
-      title: "Pong Game",
-      link: "https://pong-samotsama.vercel.app",
-      imgUrl: "/pong.png",
-    },
   ],
   about: {
     title:
@@ -65,25 +65,32 @@ const userData = {
   },
   experience: [
     {
+      title: "Full-Stack Developer",
+      company: "Mobeus",
+      year: "01/2024 - Present",
+      companyLink: "https://www.mobeus.com.ar",
+      desc: "Working at Mobeus as a Full-Stack developer entails migrating an application from PHP to Next.js, JavaScript, and Tailwind CSS, while also maintaining applications and services in TypeScript, MongoDB, Redis, RabbitMQ, and Docker. This role allows me to expand my expertise in modern technologies and refine my skills in crafting efficient and user-friendly applications.",
+    },
+    {
       title: "Frontend Developer",
       company: "No Country",
       year: "10/2023 - Present",
       companyLink: "https://www.nocountry.tech",
-      desc: "Working as a Frontend developer at No Country, contributing to the creation of a high-quality apps using Next.js and enhancing my skills in new technologies.",
+      desc: "Working as a Frontend developer at No Country, contributing to the creation of a high-quality apps using Next.js, TypeScript, JavaScript, and Tailwind CSS and enhancing my skills in new technologies.",
     },
     {
       title: "Web Developer Intern",
       company: "GAOTek Inc.",
       year: "09/2023 - 12/2023",
       companyLink: "https://gaotek.com",
-      desc: "Web development using WordPress, WPBakery for text and image editing. Three months intership.",
+      desc: "Web development using WordPress, WPBakery for text and image editing. Three months intership. Development of approximately 20 sites.",
     },
     {
-      title: "Receiving Assistant",
+      title: "Problem Solver Sr.",
       company: "Mercado Libre",
       year: "09/2022 - 09/2023",
       companyLink: "https://mercadolibre.com.ar",
-      desc: "Defining and monitoring KPIs, analyzing supply and inventory, supporting storage areas, tracking product supply, and compiling reports for management.",
+      desc: "Defining and monitoring KPIs, analyzing supply and inventory, supporting storage areas, tracking product supply, and compiling reports for management. Reporting, problem-solving, process optimization.",
     },
     {
       title: "Problem Solver",
