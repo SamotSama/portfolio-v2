@@ -76,13 +76,13 @@ export default function Contact() {
               <input
                 type="text"
                 className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-red-600"
-                name="from_name"
+                name="name"
                 value={formData.name}
                 onChange={handleChange}
                 required // Añadido el atributo required aquí
               />
               <label
-                htmlFor="from_email"
+                htmlFor="email"
                 className="text-sm text-gray-600 mx-4 mt-4"
                 required
               >
@@ -91,7 +91,7 @@ export default function Contact() {
               <input
                 type="email"
                 className="font-light rounded-md border focus:outline-none py-2 mt-2 px-1 mx-4 focus:ring-2 focus:border-none ring-red-600"
-                name="from_email"
+                name="email"
                 value={formData.email}
                 onChange={handleChange}
                 required // Añadido el atributo required aquí
@@ -118,7 +118,7 @@ export default function Contact() {
               </button>
             </form>
           </div>
-          <div className="icons-container inline-flex flex-col my-20 justify-between">
+          <div className="icons-container inline-flex flex-col mt-20 justify-between">
             <div className="flex flex-row items-center space-x-6 rounded-md border border-[#333333] hover:border hover:border-gray-50 p-4 my-2">
               <svg
                 xmlns="http://www.w3.org/2000/svg"
